@@ -37,7 +37,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/Anujjoshi08/accordion-faq-project.git
+git clone https://github.com/Anujjoshi08/Accordian-MiniProjest.git
 Open index.html in your browser.
 
 Click on any question to expand or collapse its answer with a smooth animation.
